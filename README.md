@@ -1,6 +1,20 @@
-# Fedora-QUENNE-AI-CYBERSHIELD-
+## Positioning Statement (Fedora / Upstream-Safe)
 
-# Fedora-QUENNE AI CYBERSHIELD 🛡️🧠⚛️
+Fedora-QUENNE AI CYBERSHIELD is an **upstream-oriented research and reference project**
+that explores future-facing security architectures for Fedora-based systems.
+
+The project is intentionally published as a **technical seed and reference blueprint**,
+combining comprehensive specifications, architectural designs, and exploratory
+implementations to support discussion, experimentation, and independent validation.
+
+It does **not** claim production readiness, security guarantees, or operational completeness.
+Any production use requires substantial engineering effort, formal security review,
+threat modeling, and compliance validation by the adopting organization.
+
+The primary objective of this project is to contribute ideas, patterns, and technical
+direction to the broader Fedora, Linux, and open security research communities.
+
+# Fedora-QUENNE AI CYBERSHIELD 
 **A research-oriented, Fedora-native security fabric exploring cognitive autonomy, post-quantum crypto-agility, and hardware-rooted trust.**
 
 ![Status](https://img.shields.io/badge/status-conceptual%20research-blue)
